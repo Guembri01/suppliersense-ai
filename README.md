@@ -65,31 +65,31 @@ flowchart LR
 
 ### Voice supplier audit
 
-<img src="docs/screenshots/02_voice_audit.png" alt="Voice supplier audit with commitment detection findings." width="640">
+<img src="docs/screenshots/03_voice_audit.png" alt="Voice supplier audit with commitment detection findings." width="640">
 
 ### Disruptions
 
-<img src="docs/screenshots/03_disruptions.png" alt="Active named disruption events linked to affected suppliers." width="640">
+<img src="docs/screenshots/06_disruptions.png" alt="Active named disruption events linked to affected suppliers." width="640">
 
 ### Risk profile
 
-<img src="docs/screenshots/04_risk_profile.png" alt="Per-supplier risk profile with four-axis radar and history." width="640">
+<img src="docs/screenshots/02_risk_profile.png" alt="Per-supplier risk profile with four-axis radar and history." width="640">
 
 ### Suppliers grid
 
-<img src="docs/screenshots/05_suppliers_grid.png" alt="Supplier grid with banded scores and concentration heatmap." width="640">
+<img src="docs/screenshots/08_suppliers_grid.png" alt="Supplier grid with banded scores and concentration heatmap." width="640">
 
 ### Ask AI widget
 
-<img src="docs/screenshots/06_ai_ask_widget.png" alt="Ask AI widget for natural-language supplier portfolio queries." width="640">
+<img src="docs/screenshots/04_ai_ask_widget.png" alt="Ask AI widget for natural-language supplier portfolio queries." width="640">
 
 ### Geopolitical view
 
-<img src="docs/screenshots/07_geopolitical.png" alt="Geopolitical concentration view by country with risk overlay." width="640">
+<img src="docs/screenshots/05_geopolitical.png" alt="Geopolitical concentration view by country with risk overlay." width="640">
 
 ### Analytics
 
-<img src="docs/screenshots/08_analytics.png" alt="Portfolio-level analytics with band distribution over time." width="640">
+<img src="docs/screenshots/07_analytics.png" alt="Portfolio-level analytics with band distribution over time." width="640">
 
 ## Stack
 
